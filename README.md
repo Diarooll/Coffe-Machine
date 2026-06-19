@@ -1,1 +1,1 @@
-This Python program simulates a machine coffee, I hope that u like.
+This Python projects represent what I've been leaning in 1 week and a half. This program simulates a Coffe Machine, I hope that u like.
